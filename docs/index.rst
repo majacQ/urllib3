@@ -7,7 +7,7 @@ urllib3
 
    For Enterprise <https://tidelift.com/subscription/pkg/pypi-urllib3?utm_source=pypi-urllib3&utm_medium=referral&utm_campaign=docs>
    Community Discord <https://discord.gg/urllib3>
-   v2-roadmap
+   v2-migration-guide
    sponsors
    user-guide
    advanced-usage
@@ -26,7 +26,7 @@ standard libraries:
 - Client-side TLS/SSL verification.
 - File uploads with multipart encoding.
 - Helpers for retrying requests and dealing with HTTP redirects.
-- Support for gzip, deflate, and brotli encoding.
+- Support for gzip, deflate, brotli, and zstd encoding.
 - Proxy support for HTTP and SOCKS.
 - 100% test coverage.
 
